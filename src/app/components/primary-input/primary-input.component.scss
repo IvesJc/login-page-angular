@@ -10,10 +10,10 @@
     }
 
     .input-content {
-        display: flex;
         width: 100%;
         border-radius: 8px;
-
+        display: flex;
+        
         .icon {
             padding: 12px;
             background-color: $primary-color;
@@ -32,7 +32,4 @@
             width: 100%;
         }
     }
-
-
-
 }
